@@ -1,1 +1,1 @@
-fauria/vsftpd
+docker pull jmcombs/sftp:latest Linux/ARM64
