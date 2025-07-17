@@ -1,1 +1,1 @@
-docker pull --platform linux/arm64 jmcombs/sftp:latest Linux/ARM64
+docker pull --platform linux/arm64 jmcombs/sftp:latest
